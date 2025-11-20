@@ -57,22 +57,25 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
+```
 
 
 
 🧩 Installation & Setup
 
 1️⃣ Backend Setup
+```bash
 cd backend
 npm install
 npm run dev
+```
 2️⃣ Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm run dev
-📸 Preview
-Below is a quick look at the application UI:
+```
+
 
 
 
